@@ -1,4 +1,4 @@
-# Hi, I'm Chandrakanth Rajesh 👋
+# Hi, I'm Chandrakanth Rajesh (CK)👋
 
 ### About Me:
 I'm a software developer who enjoys solving problems and building practical solutions. I have experience with Spring Boot, microservices, and custom queuing systems. When I'm not coding 💻, I'm usually playing cricket 🏏, creating art 🎨, or riding my motorcycle 🏍️.

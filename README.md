@@ -1,16 +1,16 @@
 # Hi, I'm Chandrakanth Rajesh (CK)👋
 
 ### About Me:
-I'm a software developer who enjoys solving problems and building practical solutions. I have experience with Spring Boot, microservices, and custom queuing systems. When I'm not coding 💻, I'm usually playing cricket 🏏, creating art 🎨, or riding my motorcycle 🏍️.
+I'm a software developer who enjoys solving problems and building practical solutions. I have experience with Spring Boot, microservices, custom queuing systems, and React. When I'm not coding 💻, I'm usually playing cricket 🏏, creating art 🎨, or riding my motorcycle 🏍️.
 
 ---
 
 ### 🛠️ Technologies & Tools I Use:
 - **Languages**: Java, Python, JavaScript, SQL
-- **Frameworks**: Spring Boot, Spring Cloud, Hibernate
-- **Tools**: Docker, Kafka, Git, Maven, Jenkins
+- **Frameworks**: Spring Boot, Spring Cloud, Hibernate, React
+- **Tools**: Docker, Kubernetes, Kafka, Git, Maven, Jenkins
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Other Skills**: Microservices Architecture, Message Queuing, RESTful APIs, TDD, CI/CD
+- **Other Skills**: Microservices Architecture, Message Queuing, RESTful APIs, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), WebSockets.
 
 ---
 
